@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"50k",
+	"Hierarchies@Code.links":
+	[
+		"50k.hierarchies/50k.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('50k')/Hierarchies('50k')"
+	}
+}
