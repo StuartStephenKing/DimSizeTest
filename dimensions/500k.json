@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"500k",
+	"Hierarchies@Code.links":
+	[
+		"500k.hierarchies/500k.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('500k')/Hierarchies('500k')"
+	}
+}
